@@ -1,0 +1,8 @@
+{
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true
+}
+
+// https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75
